@@ -2,8 +2,8 @@ cask "inova-ide" do
   arch arm: "arm64", intel: "x64"
 
   version "0.1.0"
-  sha256 arm:   "0000000000000000000000000000000000000000000000000000000000000001",
-         intel: "0000000000000000000000000000000000000000000000000000000000000002"
+  sha256 arm:   "5f7d4c561040147bc4010b4caf546ccc7745db8e38d3bafb95934739feb9b14b",
+         intel: "72f6a96de61379d994e6c67f33b11110aaf1e3d500533554cd5729158bbe910e"
 
   url "https://github.com/InovacodeDev/inova-ide/releases/download/v#{version}/InovaIDE-#{version}-#{arch}.dmg",
       verified: "github.com/InovacodeDev/inova-ide/"
