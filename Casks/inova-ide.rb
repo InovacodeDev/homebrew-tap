@@ -1,6 +1,6 @@
 cask "inova-ide" do
-  version "0.5.0"
-  sha256 "858dbd3f4599bf94ec4c1a4931c3c69fb63e2c822367a1f3d6e16ca5d40040f5"
+  version "0.5.1"
+  sha256 "681fe86d984b979ba64705e772025c7262c77aed2edc9efa1576a9d8b45fab21"
 
   url "https://github.com/InovacodeDev/inova-ide/releases/download/v#{version}/InovaIDE-#{version}-arm64.dmg"
   name "InovaIDE"
